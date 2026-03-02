@@ -1,1 +1,7 @@
-# Aula2ED.lista3.ex1
+# Exercício 1 — Quantidade de Dígitos (Recursivo)
+
+Criar uma função recursiva que exiba a quantidade de dígitos de um número inteiro passado como parâmetro.
+
+O código deve trazer como comentários:
+- A condição de parada;
+- Como escrever a função para o termo *n* em função do termo anterior.
